@@ -1,2 +1,2 @@
 # 14-5_GB_Titan
-Titan Model using Gradient Boosting
+Titanic Model using Gradient Boosting
